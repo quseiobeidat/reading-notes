@@ -18,3 +18,15 @@ Benefits of having a growth career mindset
 - Finally, it’s about taking action and [implementing your plan] to actually progress towards your career goals. This means doing things or getting things to happen – networking, gaining experience and searching for opportunities and roles that will bring you closer to achieving your aspirations and creating your future.
 
 - Importantly, the above 4 steps should be a continual cycle, an ongoing process throughout your career journey. It’s important to regularly review your understanding of yourself, your influences and the world of work, as these change throughout your life and, in turn, impact on your career planning. Self-reflection is a valuable way of checking that you are on track with your career planning and ask yourself what is working for you or what isn’t working so well. Reviewing your career plan with your manager or a mentor can help guide your reflection and help you to learn about new opportunities or changes that may impact you. Establishing regular career conversations to review your goals can also remind you of how far you’ve come on your career journey, and it can signal when changes needs to be made.
+
+## reminders to myself of how to keep myself in a growth mindset
+- Acknowledge and embrace imperfections.
+- View challenges as opportunities.
+- Try different learning tactics.
+
+## I want to introduce myself
+- My name is Qusay Hussein Al-Obaidat.
+- I'm 24 years old.
+- I live in Irbid.
+- She studied accounting at Irbid National University.
+-  now.I am studying computer programming
