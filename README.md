@@ -42,5 +42,5 @@ Benefits of having a growth career mindset
 | Lab/Read        | Link       |
 | ------------- |:-------------:|
 | ACP     | [ACP](https://quseiobeidat.github.io/reading-notes/ACP)| 
-| Git and GitHub     | [Git and GitHub](https://quseiobeidat.github.io/reading-notes/Git and GitHub)| 
+| Git_and_GitHub     | [Git_and_GitHub](https://quseiobeidat.github.io/reading-notes/Git_and_GitHub)| 
 | Markdown     | [Markdown](https://quseiobeidat.github.io/reading-notes/Markdown)| 
