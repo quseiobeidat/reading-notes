@@ -1,3 +1,7 @@
+# Introduction
+Hello, My name is Quesi Obeidat, I studied accountant and I do not have any backgroung in programming, but I am planning to be the best programmer in the world, I following the growth mindset lifestyle. 
+Here some infos about it, thank you for being here.
+
 # How can a growth mindset benefit your career?
 
 ![alt text](https://www.hudson.sg/wp-content/cache/bb-plugin/cache/growth-mindset-1024x731-landscape.jpg)
@@ -30,3 +34,13 @@ Benefits of having a growth career mindset
 - I live in Irbid.
 - She studied accounting at Irbid National University.
 -  now.I am studying computer programming
+
+
+
+# ToC 
+
+| Lab/Read        | Link       |
+| ------------- |:-------------:|
+| ACP     | [ACP](https://quseiobeidat.github.io/reading-notes/ACP)| 
+| Git and GitHub     | [Git and GitHub](https://quseiobeidat.github.io/reading-notes/Git and GitHub)| 
+| Markdown     | [Markdown](https://quseiobeidat.github.io/reading-notes/Markdown)| 
