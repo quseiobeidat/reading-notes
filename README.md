@@ -44,6 +44,6 @@ Benefits of having a growth career mindset
 | ACP     | [ACP](https://quseiobeidat.github.io/reading-notes/ACP)| 
 | Git_and_GitHub     | [Git_and_GitHub](https://quseiobeidat.github.io/reading-notes/Git_and_GitHub)| 
 | Markdown     | [Markdown](https://quseiobeidat.github.io/reading-notes/Markdown)| 
-| Operators and Loops     | [Operators and Loops](https://quseiobeidat.github.io/html-and-css/Operators and Loops)| 
-| Programming with JavaScript     | [Programming with JavaScript](https://quseiobeidat.github.io/html-and-css/Programming with JavaScrip)| 
+| Operators and Loops     | [Operators and Loops](https://quseiobeidat.github.io/html-and-css/Operators_and_Loops)| 
+| Programming with JavaScript     | [Programming with JavaScript](https://quseiobeidat.github.io/html-and-css/Programming_with_JavaScript)| 
 
